@@ -41,9 +41,14 @@ git config —global user.email johndoe@example.com
 ### Источники
 
 https://htmlacademy.ru/blog/boost/tools/useful-commands-for-working-with-git
+
 https://www.fandroid.info/shpargalka-po-komandam-git/
+
 https://htmlacademy.ru/blog/boost/tools/useful-commands-for-working-with-git
+
 https://habr.com/ru/company/skillbox/blog/442260/
+
 https://git-scm.com/book/ru/v2/Appendix-C%3A-Команды-Git-Основные-команды
+
 http://dev-lab.info/2013/08/шпаргалка-по-git-основные-команды-слиян/
 
